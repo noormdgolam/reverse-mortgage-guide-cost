@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Search | Reverse Mortgage Guide</title>
-    <meta name="description" content="Search our articles and guides on reverse mortgages.">
+    <title>How a Reverse Mortgage Works | Reverse Mortgage Guide</title>
+    <meta name="description" content="Step-by-step guides explaining the mechanics of reverse mortgages, interest rates, lines of credit, and borrower requirements.">
     
     <link rel="stylesheet" href="/css/style.css">
     <link rel="manifest" href="/manifest.json">
@@ -12,8 +12,8 @@
     <link rel="canonical" href="https://reverse-mortgage-guide-cost.bongshai.com/">
     
     <!-- Open Graph -->
-    <meta property="og:title" content="Search | Reverse Mortgage Guide">
-    <meta property="og:description" content="Search our articles and guides on reverse mortgages.">
+    <meta property="og:title" content="How a Reverse Mortgage Works | Reverse Mortgage Guide">
+    <meta property="og:description" content="Step-by-step guides explaining the mechanics of reverse mortgages, interest rates, lines of credit, and borrower requirements.">
     <meta property="og:url" content="https://reverse-mortgage-guide-cost.bongshai.com/">
     <meta property="og:type" content="website">
     
@@ -65,64 +65,21 @@
 
     <main class="container">
         
-<div class="grid-layout">
-    <div class="article-content" style="min-height: 50vh;">
-        <header class="article-header">
-            <h1>Search Results</h1>
-            <p id="search-status">Searching for: <strong><span id="search-query">...</span></strong></p>
-        </header>
-
-        <div id="search-results-container">
-            <!-- Results will be injected here via JS -->
-            <p>Loading results...</p>
-        </div>
+<div style="max-width: 800px; margin: 0 auto; padding: 2rem 0;">
+    <h1>How a Reverse Mortgage Works</h1>
+    <div style="margin-top: 2rem; background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <h2 id="the-mechanics-of-a-reverse-mortgage">The Mechanics of a Reverse Mortgage</h2>
+<p>A Home Equity Conversion Mortgage (HECM) allows homeowners aged 62 and older to convert a portion of their home equity into tax-free cash without having to sell the home, give up title, or take on a new monthly mortgage payment.</p>
+<p>However, the mechanics of how the loan balance grows and how interest accrues can be complex. In our guides, we break down:</p>
+<ul>
+<li><strong>Interest Rates:</strong> The difference between fixed and adjustable rates, and how the SOFR index affects your loan.</li>
+<li><strong>The Line of Credit:</strong> How the growing line of credit works and why it is a powerful financial tool for retirement.</li>
+<li><strong>Payment Plans:</strong> Choosing between a lump sum, monthly term, or tenure payments.</li>
+<li><strong>Borrower Requirements:</strong> What it takes to pass the Financial Assessment and the importance of paying ongoing property taxes.</li>
+</ul>
+<p>Our goal is to ensure you fully understand the mechanics of the loan before signing any paperwork. Explore our latest articles to learn more.</p>
     </div>
 </div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const params = new URLSearchParams(window.location.search);
-    const query = params.get('q');
-    
-    if (query) {
-        document.getElementById('search-query').innerText = query;
-        fetch('/search_index.json')
-            .then(res => res.json())
-            .then(data => {
-                const lowerQuery = query.toLowerCase();
-                const results = data.filter(item => 
-                    item.title.toLowerCase().includes(lowerQuery) || 
-                    item.description.toLowerCase().includes(lowerQuery)
-                );
-                
-                const container = document.getElementById('search-results-container');
-                container.innerHTML = '';
-                
-                if (results.length > 0) {
-                    results.forEach(item => {
-                        const div = document.createElement('div');
-                        div.style.marginBottom = '1.5rem';
-                        div.style.paddingBottom = '1.5rem';
-                        div.style.borderBottom = '1px solid var(--gray-light)';
-                        div.innerHTML = `
-                            <h3 style="margin-bottom: 0.5rem;"><a href="${item.url}" style="text-decoration: none; color: var(--primary-color);">${item.title}</a></h3>
-                            <p style="margin: 0; color: var(--text-color);">${item.description}</p>
-                        `;
-                        container.appendChild(div);
-                    });
-                } else {
-                    container.innerHTML = '<p>No results found for your query. Try different keywords.</p>';
-                }
-            })
-            .catch(err => {
-                document.getElementById('search-results-container').innerHTML = '<p>Error loading search results.</p>';
-            });
-    } else {
-        document.getElementById('search-status').innerText = 'Please enter a search term.';
-        document.getElementById('search-results-container').innerHTML = '';
-    }
-});
-</script>
 
     </main>
 

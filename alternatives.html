@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Search | Reverse Mortgage Guide</title>
-    <meta name="description" content="Search our articles and guides on reverse mortgages.">
+    <title>Reverse Mortgage Alternatives | Reverse Mortgage Guide</title>
+    <meta name="description" content="Explore alternative financial solutions to a reverse mortgage, including downsizing, HELOCs, and state property tax deferral programs.">
     
     <link rel="stylesheet" href="/css/style.css">
     <link rel="manifest" href="/manifest.json">
@@ -12,8 +12,8 @@
     <link rel="canonical" href="https://reverse-mortgage-guide-cost.bongshai.com/">
     
     <!-- Open Graph -->
-    <meta property="og:title" content="Search | Reverse Mortgage Guide">
-    <meta property="og:description" content="Search our articles and guides on reverse mortgages.">
+    <meta property="og:title" content="Reverse Mortgage Alternatives | Reverse Mortgage Guide">
+    <meta property="og:description" content="Explore alternative financial solutions to a reverse mortgage, including downsizing, HELOCs, and state property tax deferral programs.">
     <meta property="og:url" content="https://reverse-mortgage-guide-cost.bongshai.com/">
     <meta property="og:type" content="website">
     
@@ -65,64 +65,21 @@
 
     <main class="container">
         
-<div class="grid-layout">
-    <div class="article-content" style="min-height: 50vh;">
-        <header class="article-header">
-            <h1>Search Results</h1>
-            <p id="search-status">Searching for: <strong><span id="search-query">...</span></strong></p>
-        </header>
-
-        <div id="search-results-container">
-            <!-- Results will be injected here via JS -->
-            <p>Loading results...</p>
-        </div>
+<div style="max-width: 800px; margin: 0 auto; padding: 2rem 0;">
+    <h1>Reverse Mortgage Alternatives</h1>
+    <div style="margin-top: 2rem; background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <h2 id="exploring-alternatives-to-a-reverse-mortgage">Exploring Alternatives to a Reverse Mortgage</h2>
+<p>While a reverse mortgage is a powerful tool, it is not the right solution for every senior. Depending on your financial goals, health, and family situation, there may be better, more cost-effective alternatives available.</p>
+<p>As an independent educational resource, we strongly encourage you to consider all your options:</p>
+<ul>
+<li><strong>Downsizing:</strong> The financial benefits of selling your current home and moving to a smaller, less expensive property or a cheaper state.</li>
+<li><strong>Home Equity Line of Credit (HELOC):</strong> How traditional home equity loans compare to a reverse mortgage and when they make more sense.</li>
+<li><strong>Property Tax Deferrals:</strong> Local and state programs designed to keep seniors in their homes by deferring property taxes.</li>
+<li><strong>Intra-Family Loans:</strong> The pros and cons of borrowing money from your adult children instead of a bank.</li>
+</ul>
+<p>Review our articles to weigh the risks and benefits of each alternative before making a permanent financial decision.</p>
     </div>
 </div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const params = new URLSearchParams(window.location.search);
-    const query = params.get('q');
-    
-    if (query) {
-        document.getElementById('search-query').innerText = query;
-        fetch('/search_index.json')
-            .then(res => res.json())
-            .then(data => {
-                const lowerQuery = query.toLowerCase();
-                const results = data.filter(item => 
-                    item.title.toLowerCase().includes(lowerQuery) || 
-                    item.description.toLowerCase().includes(lowerQuery)
-                );
-                
-                const container = document.getElementById('search-results-container');
-                container.innerHTML = '';
-                
-                if (results.length > 0) {
-                    results.forEach(item => {
-                        const div = document.createElement('div');
-                        div.style.marginBottom = '1.5rem';
-                        div.style.paddingBottom = '1.5rem';
-                        div.style.borderBottom = '1px solid var(--gray-light)';
-                        div.innerHTML = `
-                            <h3 style="margin-bottom: 0.5rem;"><a href="${item.url}" style="text-decoration: none; color: var(--primary-color);">${item.title}</a></h3>
-                            <p style="margin: 0; color: var(--text-color);">${item.description}</p>
-                        `;
-                        container.appendChild(div);
-                    });
-                } else {
-                    container.innerHTML = '<p>No results found for your query. Try different keywords.</p>';
-                }
-            })
-            .catch(err => {
-                document.getElementById('search-results-container').innerHTML = '<p>Error loading search results.</p>';
-            });
-    } else {
-        document.getElementById('search-status').innerText = 'Please enter a search term.';
-        document.getElementById('search-results-container').innerHTML = '';
-    }
-});
-</script>
 
     </main>
 

@@ -12,8 +12,8 @@
   },
   "nav_links": [
     {"title": "Home", "url": "/"},
-    {"title": "Costs & Fees", "url": "/costs-and-fees"},
-    {"title": "How It Works", "url": "/how-it-works"},
-    {"title": "Alternatives", "url": "/alternatives"}
+    {"title": "Costs & Fees", "url": "/costs-and-fees.html"},
+    {"title": "How It Works", "url": "/how-it-works.html"},
+    {"title": "Alternatives", "url": "/alternatives.html"}
   ]
 }
