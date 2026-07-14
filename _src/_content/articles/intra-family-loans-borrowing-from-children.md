@@ -1,44 +1,38 @@
----
-title: 'Intra-Family Loans: Borrowing From Your Adult Children'
-description: How to structure a legal, tax-compliant loan from your heirs instead
-  of using a bank for a reverse mortgage.
+---\ntitle: 'Intra-Family Loans: Borrowing From Your Adult Children'
+description: Explore the pros, cons, and tax implications of keeping home equity in
+  the family by setting up a formal intra-family loan instead of a reverse mortgage.
 slug: intra-family-loans-borrowing-from-children
 category: alternatives
-date: '2024-03-05'
+date: '2023-10-28'
 takeaways:
-- An intra-family loan allows wealthy children to fund their parents' retirement.
-- The loan must be legally documented and charge a minimum IRS interest rate.
-- It keeps the home equity entirely within the family, avoiding bank fees.
----
+- Adult children can act as the 'bank' and lend their parents money secured by the
+  home.
+- This avoids all bank closing fees and keeps interest payments within the family.
+- Must be documented formally to avoid IRS gift tax penalties and sibling disputes.
+---\n\nA reverse mortgage is essentially a mechanism to consume your home's equity, which directly reduces the inheritance you will leave behind. For many families, this is an acceptable tradeoff. But if your adult children are financially successful, there is a powerful alternative: **The Intra-Family Loan.**
 
-If a senior is considering a reverse mortgage, the very first step should be holding a family meeting. 
+Rather than paying a bank thousands of dollars in closing costs and high interest rates, your children can act as the bank.
 
-Often, a reverse mortgage is completely unnecessary if the senior's adult children have significant liquid wealth. Instead of paying a bank $15,000 in closing costs and letting compounding interest eat the family inheritance, the children can act as the bank by executing an **Intra-Family Loan**.
+## How it Works
 
-## How the Family Reverse Mortgage Works
+Let's say you need $50,000 for medical expenses and home repairs. Instead of getting a reverse mortgage, your children lend you the $50,000. 
 
-In this scenario, the adult children agree to provide the parents with a monthly stipend (e.g., $2,000 a month) or a lump sum to pay off debts.
+To protect everyone involved, they place a formal mortgage lien on your house for the $50,000. You are not required to make monthly payments to them; instead, the interest accrues over time (just like a reverse mortgage). 
 
-To protect the children's financial interests and ensure fairness among siblings, this is not a gift. It is a formal, legally binding loan secured by the parents' house.
+When you eventually pass away and the home is sold, your children are paid back their original $50,000 plus the accrued interest from the sale proceeds, before the rest of the estate is divided.
 
-1. **The Promissory Note:** An estate attorney drafts a legal document stating that the parents are borrowing money from the children, and the home is the collateral.
-2. **The Mortgage Lien:** The children legally record a mortgage lien against the parents' house at the county courthouse. 
-3. **The Payoff:** When the parents eventually pass away, the house is sold. The children are paid back their principal, plus interest, from the sale proceeds *before* the rest of the estate is divided.
+## The Advantages
 
-## The IRS Rules (AFR)
+1. **Zero Bank Fees:** You avoid the FHA insurance premium, the $6,000 origination fee, and HUD counseling costs. The only cost is a few hundred dollars to a real estate attorney to draft the mortgage document and record it with the county.
+2. **Wealth Stays in the Family:** Instead of paying 7% compounding interest to a massive corporate bank, that interest is paid to your children. The family wealth is preserved.
+3. **Flexibility:** Your children can offer you much better terms than a bank ever could.
 
-You cannot simply give your parents a zero-interest loan. 
+## The Risks and Rules
 
-To avoid the IRS classifying the loan as a taxable gift, you must charge the **Applicable Federal Rate (AFR)**. This is a minimum interest rate set by the IRS every month. While you must charge interest, the AFR is vastly lower than the 7% or 8% a commercial reverse mortgage lender would charge.
+While mathematically brilliant, intra-family loans require extreme caution regarding family dynamics and tax law.
 
-## The Benefits and the Risks
+- **The IRS Applicable Federal Rate (AFR):** Your children cannot lend you money at 0% interest. The IRS requires that intra-family loans charge a minimum interest rate (the AFR), which changes monthly. If they charge less than the AFR, the IRS considers the "unpaid" interest to be a taxable gift.
+- **Sibling Conflict:** If one sibling lends the money and another does not, it can create massive resentment if not communicated clearly. The sibling who lent the money must be paid back *first* from the estate, which can confuse heirs who expect a clean 50/50 split of the house.
+- **Liquidity Risk:** Your children must have the cash available to lend you without putting their own retirement or kids' college funds at risk.
 
-**The Benefits:**
-- **Zero Bank Fees:** You bypass the FHA Mortgage Insurance Premium, the origination fees, and the servicing fees.
-- **Wealth Preservation:** The interest paid on the loan goes directly to the children, keeping all the wealth inside the family bloodline rather than handing it to a Wall Street bank.
-
-**The Risks:**
-- **Family Drama:** Mixing money and family is notoriously dangerous. If one sibling is funding the loan and the others are not, it can create massive resentment during the probate process.
-- **Liquidity Risk:** If the children suffer a financial crisis (job loss, divorce) and can no longer afford to send the parents the $2,000 a month, the parents are left stranded with no income. 
-
-An intra-family loan requires total transparency, high liquidity, and the oversight of a sharp estate attorney.
+If your family is communicative, wealthy enough to facilitate the loan, and willing to hire a lawyer to document it correctly, an intra-family loan is vastly superior to a reverse mortgage.\n

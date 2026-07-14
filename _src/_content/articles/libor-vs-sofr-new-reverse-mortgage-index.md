@@ -1,37 +1,35 @@
----
-title: 'LIBOR vs. SOFR: The New Reverse Mortgage Index'
-description: Why the reverse mortgage industry was forced to abandon the LIBOR index
-  and transition to the SOFR index.
+---\ntitle: 'LIBOR vs. SOFR: The New Reverse Mortgage Index'
+description: Understand the transition from the LIBOR index to the SOFR index in the
+  reverse mortgage industry and how it impacts your loan.
 slug: libor-vs-sofr-new-reverse-mortgage-index
-category: rates
-date: '2024-04-24'
+category: payouts
+date: '2023-11-22'
 takeaways:
-- For decades, adjustable reverse mortgages were tied to the LIBOR index.
-- Due to massive banking scandals, LIBOR was legally phased out and abolished.
-- All modern HECMs now use the SOFR (Secured Overnight Financing Rate) index, which
-  is much more stable.
----
+- LIBOR was phased out due to massive banking manipulation scandals.
+- SOFR is the new standard index, based on actual overnight Treasury transactions.
+- SOFR is generally more stable and less prone to sudden, artificial spikes.
+---\n\nIf you researched reverse mortgages a few years ago, you likely read that adjustable-rate HECMs were tied to the "LIBOR" index. Today, if you look at a loan estimate, LIBOR is completely gone, replaced by an acronym called "SOFR." 
 
-If you took out a reverse mortgage in 2015 and you look at your old closing documents, you will see that your adjustable interest rate was tied to something called the **1-Month LIBOR Index**. 
-
-If you apply for a reverse mortgage today, the word LIBOR has completely vanished, replaced by an acronym called **SOFR**. This massive structural change was the result of one of the largest financial scandals in modern history.
+What happened to LIBOR, and why should you care about SOFR?
 
 ## The Fall of LIBOR
 
-LIBOR stood for the London Interbank Offered Rate. It was the benchmark interest rate used by massive global banks to lend money to each other. For decades, it was the foundational index for trillions of dollars in consumer debt, including mortgages, student loans, and reverse mortgages.
+The London Interbank Offered Rate (LIBOR) was the benchmark interest rate that global banks charged each other for short-term loans. For decades, it was the baseline index for trillions of dollars in adjustable-rate mortgages, including reverse mortgages.
 
-However, in the wake of the 2008 financial crisis, investigators discovered that massive European banks were secretly colluding to artificially manipulate the LIBOR rate to boost their trading profits. 
+However, in 2012, a massive global scandal broke. Investigators discovered that major banks were colluding to artificially manipulate the LIBOR rate to profit on their derivatives trades. Because LIBOR was based on *estimates* submitted by bankers rather than actual hard data, it was easy to rig.
 
-Because the rate was based on "estimates" submitted by bankers rather than actual hard data, it was easily corrupted. When the scandal broke, regulators worldwide decided LIBOR was too toxic to survive. It was officially phased out and legally retired.
+Regulators worldwide determined LIBOR was fundamentally broken and ordered it to be phased out completely. 
 
 ## The Rise of SOFR
 
-To replace LIBOR, the U.S. Federal Reserve created a brand new, bulletproof index: **The Secured Overnight Financing Rate (CME Term SOFR).**
+To replace LIBOR, the U.S. Federal Reserve introduced the **Secured Overnight Financing Rate (SOFR)**. 
 
-Unlike LIBOR, which was based on banker estimates, SOFR is based on actual, observable transactions in the massive U.S. Treasury repurchase market. It is based on hard data, making it nearly impossible for corrupt traders to manipulate.
+Unlike LIBOR, which was based on bankers' honor-system estimates, SOFR is based on actual, concrete transactions in the U.g. Treasury repurchase market. Trillions of dollars change hands in this market every night, making it impossible for a small group of bankers to manipulate.
 
-## What This Means for You
+## What it Means for Your Reverse Mortgage
 
-If you are getting a new reverse mortgage today, your adjustable rate will be tied to SOFR. For the average senior, the math functions exactly the same. You still have an Index plus a Margin, and your rate will still fluctuate up and down based on the health of the U.S. economy.
+For the average senior getting a reverse mortgage today, the transition to SOFR is entirely positive. 
 
-If you have an *old* reverse mortgage that was originally tied to LIBOR, don't panic. The federal government enacted legislation that automatically transitioned all legacy LIBOR contracts over to the new SOFR equivalent. Your loan servicer handled the math transition on the back-end seamlessly.
+Because SOFR is anchored to actual Treasury transactions, it is generally less volatile than LIBOR was. While it still fluctuates based on the Federal Reserve's monetary policy and inflation data, it is not subject to the sudden, artificial spikes that plagued the LIBOR era.
+
+If you are looking at a reverse mortgage today, your loan will almost certainly be tied to the 30-Day Average SOFR index, plus whatever lender margin you negotiate.\n

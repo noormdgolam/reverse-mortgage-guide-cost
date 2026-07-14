@@ -1,42 +1,43 @@
----
-title: Selling Fractional Home Equity to Wall Street Investors
-description: Understand the new industry of Home Equity Sharing Agreements and why
-  they are riskier than reverse mortgages.
+---\ntitle: Selling Fractional Home Equity to Wall Street Investors
+description: An introduction to Shared Equity Agreements, a modern alternative to
+  reverse mortgages where you sell a percentage of your home's future value for cash
+  today.
 slug: selling-fractional-home-equity
 category: alternatives
-date: '2024-03-07'
+date: '2023-10-29'
 takeaways:
-- Equity sharing agreements give you cash today in exchange for a percentage of your
-  home's future value.
-- They are not loans, so there are no monthly payments or interest rates.
-- If your home appreciates rapidly, the investor takes a massive cut of your profit.
----
+- Shared Equity Agreements allow you to sell a fraction of your home's future appreciation.
+- There are no monthly payments and no interest rates, because it is an investment,
+  not a loan.
+- If your home skyrockets in value, it can be vastly more expensive than a reverse
+  mortgage.
+---\n\nIn recent years, a new financial product has emerged as a direct competitor to the reverse mortgage: **The Shared Equity Agreement (or Home Equity Investment).** 
 
-In recent years, a new financial product heavily targeted at seniors has flooded the market: the **Home Equity Sharing Agreement** (or Fractional Equity investment). 
+Companies like Hometap, Unison, and Point offer to give you a lump sum of cash today. In exchange, they are not charging you an interest rate. Instead, they are buying a percentage of the *future value* of your home. 
 
-Companies like Hometap, Unison, and Point advertise heavily, promising to give you cash without taking out a loan, without monthly payments, and without the strict age requirements of a reverse mortgage.
+## How It Works (The Investment Model)
 
-While they sound appealing, the mathematical reality of these agreements is often brutal.
+A reverse mortgage is a **debt** instrument. You borrow money and pay interest on it. 
 
-## How Equity Sharing Works
+A shared equity agreement is an **equity** instrument. You are partnering with an investor.
 
-With a reverse mortgage, you take out a loan. You are charged an interest rate, and you owe the principal plus the interest.
+Let's say your home is worth $500,000. An investor gives you $50,000 in cash today. In exchange, you agree to give them 20% of the home's value whenever you sell it or pass away (typically capped at a 10-to-30 year term).
 
-With an equity sharing agreement, **you are selling a percentage of your home's future value to a Wall Street investment firm.**
+- **If the home value stays flat at $500,000:** When you sell, the investor takes their 20% cut, which is $100,000. 
+- **If the home value drops to $400,000:** The investor takes 20%, which is $80,000. (They share in the downside risk).
+- **If the home value skyrockets to $800,000:** The investor takes 20%, which is $160,000. 
 
-1. **The Cash Advance:** The investor gives you $50,000 today.
-2. **The Contract:** In exchange, you agree to give the investor 20% of the total value of your home when you sell it, or when the 10-year term expires.
-3. **The Settlement:** Five years later, you sell your home for $500,000. You must write a check to the investor for $100,000 (20% of $500k). 
+## Advantages over a Reverse Mortgage
 
-You took $50,000, and it cost you $100,000 to settle it a few years later. The effective "interest rate" on that transaction is staggering.
+1. **No Age Limit:** You do not need to be 62 years old.
+2. **No Interest Rates:** Because it's not a loan, you don't have to worry about rising interest rates compounding against your balance.
+3. **Better for High-Value Homes:** Reverse mortgages are capped by the FHA lending limit. Shared equity agreements can be used on multi-million dollar properties.
+4. **Faster Closing:** They often close much faster with fewer regulatory hurdles than an FHA HECM.
 
-## The Risks vs. a Reverse Mortgage
+## The Massive Drawback
 
-**1. No FHA Protection:**
-A reverse mortgage is heavily regulated by HUD to protect seniors. Equity sharing agreements are completely unregulated alternative investments. There is no federally mandated counseling to ensure you understand what you are signing.
+The primary risk of a shared equity agreement is **giving up your home's appreciation.**
 
-**2. Giving Away Appreciation:**
-With a reverse mortgage, if your home value skyrockets from $400k to $800k, you keep all of that massive profit (minus the loan balance). With an equity sharing agreement, the investor takes a massive cut of that appreciation. The more your home goes up in value, the more you are penalized.
+If you live in a hot real estate market, your home's value could double in ten years. If you gave up 25% of your equity to an investor for a small $40,000 payout today, they will reap a massive windfall when you sell. 
 
-**3. The 10-Year Trap:**
-Reverse mortgages last until you die or move out. Equity sharing agreements usually have a strict 10-year term. If you haven't sold the house by year 10, the contract mandates that you must pay the investor their share immediately. This often forces seniors to desperately sell their homes or take out terrible loans just to pay off the Wall Street firm.
+In a high-appreciation scenario, a shared equity agreement will end up being significantly more expensive than the compounded interest of a standard reverse mortgage. However, if the housing market crashes, the investor absorbs the loss right alongside you.\n

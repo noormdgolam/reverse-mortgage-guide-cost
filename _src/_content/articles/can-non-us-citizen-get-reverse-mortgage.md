@@ -1,36 +1,33 @@
----
-title: Can a Non-US Citizen Get a Reverse Mortgage?
-description: Understand the residency and citizenship requirements for securing an
-  FHA-insured Home Equity Conversion Mortgage.
+---\ntitle: Can a Non-US Citizen Get a Reverse Mortgage?
+description: Clarifying the residency and citizenship requirements for obtaining an
+  FHA-insured reverse mortgage in the United States.
 slug: can-non-us-citizen-get-reverse-mortgage
 category: requirements
-date: '2024-05-14'
+date: '2023-12-02'
 takeaways:
-- You do not have to be a US Citizen to get a reverse mortgage.
-- Lawful Permanent Residents (Green Card holders) are fully eligible.
-- Non-permanent residents and foreign nationals are strictly prohibited.
----
+- You do not have to be a U.S. citizen to get a reverse mortgage.
+- Lawful permanent residents (Green Card holders) are fully eligible.
+- Non-permanent residents may face massive hurdles or outright denial.
+---\n\nThe United States is home to millions of seniors who have lived, worked, and paid taxes in the country for decades, but who never officially acquired U.S. citizenship. If you fall into this category, you might assume you are disqualified from federal programs like the FHA-insured Home Equity Conversion Mortgage (HECM).
 
-As the baby boomer generation ages, a significant number of seniors living in the United States are not naturalized U.S. citizens. When these seniors look to access their home equity, they often wonder if their immigration status disqualifies them from federal housing programs.
+Fortunately, the FHA does not strictly require U.S. citizenship.
 
-## The Rule: Legal Residency, Not Citizenship
+## Lawful Permanent Residents (Green Card Holders)
 
-The Federal Housing Administration (FHA) does not require you to be a United States citizen to qualify for a Home Equity Conversion Mortgage (HECM). 
+If you hold a valid Permanent Resident Card (commonly known as a Green Card), the FHA treats you exactly the same as a U.S. citizen. 
 
-The FHA is concerned with your legal right to reside in the country long-term, not your passport.
+You are fully eligible to apply for and receive a reverse mortgage, assuming you meet the standard age (62+) and equity requirements. During the application process, the lender will simply ask for a copy of your unexpired Green Card to verify your legal status. 
 
-### 1. Lawful Permanent Residents (Fully Eligible)
-If you hold a valid "Green Card" (Alien Registration Receipt Card), the FHA treats you exactly the same as a U.S. citizen. You are fully eligible for a reverse mortgage, provided you meet the standard age 62 requirement and pass the financial assessment.
+## Non-Permanent Residents
 
-At closing, the underwriter will simply require a copy of your unexpired Green Card to verify your legal status.
+If you are a non-permanent resident (meaning you are in the U.S. on a specific, temporary work or living visa), obtaining a reverse mortgage becomes incredibly difficult, if not impossible.
 
-### 2. Non-Permanent Residents (Ineligible)
-If you are in the United States on a temporary work visa, a tourist visa, or if you are undocumented, you cannot get an FHA reverse mortgage. 
+Because a reverse mortgage is a lifelong loan designed to keep you in the property until you die, the lender and the FHA need assurance that you have the legal right to remain in the United States indefinitely. 
 
-Because a reverse mortgage is designed to last for the rest of your life, the FHA will not insure a loan for someone who does not have the legal, permanent right to remain in the United States. If your visa expires and you are deported, the home is abandoned, triggering a massive loss for the FHA insurance fund. 
+If your visa expires in three years, the lender faces the massive risk that you will be deported or forced to leave the country. If you leave the country for more than 12 months, the home is no longer your primary residence, triggering a default on the loan. Due to this risk, most underwriters will deny HECM applications from non-permanent residents.
 
-## Social Security Number Requirements
+## The Social Security Number Requirement
 
-Regardless of your citizenship status, **you must have a valid Social Security Number (SSN)** to get an FHA reverse mortgage. 
+Regardless of your citizenship status, HUD requires that all reverse mortgage borrowers possess a valid **Social Security Number (SSN)**. 
 
-The lender needs an SSN to run your credit report for the Financial Assessment, and the FHA requires it to track the loan in their federal databases. If you use an Individual Taxpayer Identification Number (ITIN) instead of an SSN, you will not qualify for the HECM program, though some private Jumbo lenders may consider your application on a case-by-case basis.
+The lender needs the SSN to run the required Financial Assessment, pull your U.S. credit report, and verify your history of paying property taxes. If you only have an Individual Taxpayer Identification Number (ITIN) but no SSN, you generally will not qualify for an FHA-insured reverse mortgage.\n

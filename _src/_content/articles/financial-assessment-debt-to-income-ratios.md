@@ -1,45 +1,48 @@
----
-title: 'The Financial Assessment: Residual Income Requirements'
-description: Unlike traditional mortgages that use DTI, reverse mortgages use Residual
-  Income to determine if you qualify.
+---\ntitle: 'The Financial Assessment: Debt-to-Income Ratios Explained'
+description: Discover how the reverse mortgage Financial Assessment calculates residual
+  income and how it differs from traditional debt-to-income ratios.
 slug: financial-assessment-debt-to-income-ratios
 category: requirements
-date: '2024-03-29'
+date: '2023-11-09'
 takeaways:
-- Reverse mortgages do not use strict Debt-to-Income (DTI) ratios.
-- You must pass a Residual Income test proving you have cash left over after paying
-  bills.
-- The required amount varies based on where you live and the size of your family.
----
+- Reverse mortgages use a 'residual income' test instead of a strict debt-to-income
+  ratio.
+- Lenders calculate how much cash you have left over after paying all major monthly
+  debts.
+- If you fall short, you may still qualify if you accept a Life Expectancy Set-Aside
+  (LESA).
+---\n\nIn the early days of the reverse mortgage program, anyone 62 or older could get a loan regardless of their income. This led to thousands of foreclosures as seniors took the lump sum, spent it immediately, and then had no income left to pay their property taxes.
 
-When you apply for a traditional mortgage, the bank calculates your **Debt-to-Income (DTI) ratio**. If more than 45% of your gross income goes toward debt payments, you are denied.
+To fix this, HUD introduced the **Financial Assessment** in 2015. 
 
-Because a reverse mortgage eliminates your monthly mortgage payment entirely, calculating a standard DTI is often useless. Instead, the FHA Financial Assessment relies on a much more practical metric: **Residual Income**.
+Many seniors fear this assessment, assuming it is the same grueling Debt-to-Income (DTI) test required for a traditional mortgage. Fortunately, the HECM Financial Assessment is much more forgiving.
 
-## What is Residual Income?
+## Residual Income vs. DTI
 
-Residual income is simply the amount of actual cash you have left in your checking account at the end of the month after paying all of your mandatory bills.
+A traditional mortgage lender looks at your **Debt-to-Income (DTI) ratio**. They divide your total monthly debt payments by your gross monthly income. If the number is above 43%, you are instantly denied.
 
-To calculate it, the underwriter takes your total monthly income (Social Security, pension, part-time job) and subtracts:
-- Federal and State Income Taxes
-- Estimated Property Taxes and Homeowners Insurance
-- HOA Dues
-- Mandatory debt payments (car loans, credit card minimums)
-- Estimated maintenance and utility costs (calculated using a strict square-footage formula)
+A reverse mortgage lender uses a **Residual Income Test**. 
+They are not looking at a strict percentage. Instead, they look at actual dollar amounts. They want to know: *After you pay all your monthly debts and property taxes, how much cash do you have left over to buy groceries, pay for utilities, and live your life?*
 
-The number left over is your Residual Income. This is the money you have available to buy groceries, gas, and medicine.
+## How it is Calculated
 
-## The FHA Residual Income Thresholds
+The lender takes your total monthly income (Social Security, pensions, annuities, part-time work) and subtracts your monthly debts (credit card minimums, car loans, installment debt). 
 
-The FHA requires you to have a specific minimum amount of residual income to prove you can survive without defaulting on your property taxes. The required amount depends on what region of the country you live in (the Northeast is more expensive than the South) and how many people live in the house.
+Crucially, **they do not include your current mortgage payment in this calculation**, because the reverse mortgage is going to pay off that mortgage entirely. 
 
-For example, a single borrower living alone in the Midwest might only need to prove they have **$529 a month** in residual income. 
+They also subtract an estimate for your monthly property taxes, homeowners insurance, and HOA dues.
 
-A married couple living in the expensive Northeast region might need to prove they have **$1,000 a month** in residual income.
+The resulting number is your **Residual Income**.
 
-## What if You Fail the Test?
+## The HUD Guidelines
 
-If your residual income calculation falls short by $200, you are not immediately denied. The underwriter has two options:
+HUD requires that your residual income meet a specific minimum threshold based on your geographic location and family size. 
+For example, a single person living in the Midwest might only need $529 in residual income, while a married couple living in the Northeast might need $998.
 
-1. **Compensating Factors:** If you have massive liquid savings (e.g., $100,000 in an IRA), the underwriter can use that asset to artificially boost your monthly income calculation.
-2. **Require a LESA:** If you simply don't have the income, the underwriter will require a Life Expectancy Set-Aside (LESA). By freezing enough loan proceeds to pay your property taxes for life, the property tax burden is removed from your monthly calculation, allowing you to pass the residual income test.
+## What if You Fail?
+
+If your residual income falls short of the HUD requirement, you are not automatically denied. 
+
+The lender will look for "compensating factors," such as having a large amount of cash in savings. If there are no compensating factors, the lender will require a **Life Expectancy Set-Aside (LESA)**. 
+
+By setting aside funds to pay your taxes and insurance for the rest of your life, the lender removes those expenses from your residual income calculation, usually allowing you to pass the assessment and get the loan approved.\n

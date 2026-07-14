@@ -10,6 +10,7 @@ for f in html_files:
     if f.endswith('index.html'):
         valid_urls.add('/' + os.path.dirname(f))
 valid_urls.add('/search/index.html')
+valid_urls.update(['/rss.xml', '/sitemap.xml', '/search_index.json'])
 
 broken_links = defaultdict(list)
 missing_titles = []

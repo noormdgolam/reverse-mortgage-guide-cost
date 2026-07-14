@@ -1,44 +1,38 @@
----
-title: How the HECM Line of Credit Growth Rate Works
-description: 'Unlock the mathematical superpower of the FHA reverse mortgage: the
-  guaranteed growth rate on unused funds.'
+---\ntitle: How the HECM Line of Credit Growth Rate Works
+description: 'Unlock the most powerful feature of a reverse mortgage: the guaranteed
+  growth rate on the unused line of credit.'
 slug: how-hecm-line-of-credit-growth-rate-works
-category: mechanics
-date: '2024-04-10'
+category: payouts
+date: '2023-11-15'
 takeaways:
-- The unused funds in a HECM line of credit grow every month.
-- The growth rate is identical to your loan's interest rate plus the MIP.
-- The growth represents an increase in borrowing power, not cash interest earned.
----
+- The unused portion of a HECM line of credit grows automatically every month.
+- The growth rate is identical to the interest rate charged on the loan balance.
+- This growth is guaranteed, regardless of what happens to the housing market.
+---\n\nFinancial advisors who historically hated reverse mortgages have largely changed their tune over the last decade. Why? Because of one specific feature: **The Line of Credit Growth Rate.** 
 
-The most powerful, and most frequently misunderstood, feature of the Home Equity Conversion Mortgage (HECM) is the **Line of Credit Growth Rate**.
-
-Many financial planners actively encourage affluent seniors to open a reverse mortgage line of credit at age 62, purely to take advantage of this unique mathematical quirk.
+It is arguably the most powerful retirement planning tool in existence, yet most seniors don't fully understand how it works.
 
 ## What is the Growth Rate?
 
-When you open a HECM Line of Credit, any money you do *not* withdraw continues to grow. 
+If you get a traditional Home Equity Line of Credit (HELOC) from a bank for $50,000 and don't use it, you have $50,000 available tomorrow, next year, and five years from now. It never changes.
 
-Crucially, **this is not cash earning interest in a bank account.** You cannot withdraw the "growth" and use it to buy groceries without taking on debt. The growth rate represents an **increase in your total borrowing capacity.** 
+A HECM reverse mortgage line of credit operates differently. Any money you leave untouched in the line of credit *grows* over time. 
 
-If you have an available credit line of $100,000, and it grows by 6% this year, next year the bank will allow you to borrow up to $106,000. 
+The rule is simple: **Your available line of credit grows at the exact same rate as the interest compounding on your loan balance.**
 
-## How the Math Works
+## The Math Behind the Magic
 
-The FHA dictates that your unused line of credit must grow at the exact same rate as the interest charged on the loan balance. 
+Let's assume your reverse mortgage has an interest rate of 6% and a mortgage insurance premium of 0.5%. The total compounding rate is 6.5%.
 
-**Formula:** 
-`Growth Rate = Current Interest Rate + 0.50% FHA Mortgage Insurance Premium`
+If you have $100,000 available in your line of credit today and leave it untouched for exactly one year, the available capacity will grow by 6.5%. Next year, you will have $106,500 available to borrow. 
 
-If you have an adjustable-rate reverse mortgage currently charging 6.50%, plus the 0.50% MIP, your total compounding rate is 7.00%.
-Therefore, your unused line of credit grows at a compounding rate of 7.00%.
+Because it compounds, the growth accelerates rapidly over time. 
+- In 10 years, that untouched $100,000 line of credit could grow to **$187,000**.
+- In 20 years, it could grow to over **$350,000**.
 
-## The Long-Term Financial Planning Strategy
+## Why is This So Powerful?
 
-Why is this so powerful? Imagine a 62-year-old opens a $150,000 HECM line of credit and never touches it. 
+1. **Combating Inflation:** The growth rate ensures that your available purchasing power increases as you age, helping offset the rising cost of healthcare and living expenses.
+2. **Guaranteed Despite Market Crashes:** If the housing market crashes and your $500,000 home is suddenly worth $300,000, your bank will instantly cancel a traditional HELOC. But your HECM line of credit is guaranteed by the FHA. Even if your home is underwater, your line of credit continues to grow, and you can still withdraw the funds.
 
-Because of compounding math, at a 7% growth rate, that $150,000 line of credit will double in roughly 10 years. By the time the senior is 72, they have access to $300,000 in tax-free borrowing power. By age 82, it could grow to $600,000.
-
-If that senior suddenly needs $10,000 a month to pay for a memory care facility at age 82, they have a massive, untouched $600,000 pool of tax-free liquidity to draw from, completely protecting their other retirement investments from liquidation. 
-
-This FHA-guaranteed growth is independent of the actual housing market. Even if the home loses half its value in a recession, the line of credit continues to grow, and the FHA guarantees access to those funds.
+Because of this guaranteed growth, many savvy financial planners recommend setting up a reverse mortgage line of credit at age 62 and leaving it completely untouched for 10 or 15 years. By the time the senior actually needs the money for long-term care at age 75 or 80, the available line of credit has exploded in size, creating an ultimate safety net.\n

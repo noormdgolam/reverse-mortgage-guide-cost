@@ -1,39 +1,40 @@
----
-title: How Lenders Enforce the Home Maintenance Clause
-description: You are required to maintain your home to FHA standards. Learn how lenders
-  monitor your property condition.
+---\ntitle: How Lenders Enforce the Home Maintenance Clause
+description: Understand your legal obligation to maintain the physical condition of
+  your home when you have a reverse mortgage.
 slug: how-lenders-enforce-home-maintenance-clause
 category: requirements
-date: '2024-03-23'
+date: '2023-11-06'
 takeaways:
-- You must keep the home in good repair to protect the lender's collateral.
-- Servicers conduct occasional exterior drive-by inspections.
-- If the home falls into severe disrepair, the loan can be called Due and Payable.
----
+- Your reverse mortgage contract requires you to keep the home in good repair.
+- Allowing the home to fall into severe disrepair can trigger a default.
+- Lenders conduct exterior drive-by inspections to monitor the property's condition.
+---\n\nWhen you sign a reverse mortgage contract, you are agreeing to several covenants. The most obvious are paying your taxes and insurance. But tucked away in the paperwork is another critical requirement: **You must maintain the physical condition of the property.**
 
-When you sign the massive stack of paperwork at a reverse mortgage closing, you are agreeing to several strict covenants. One of the most overlooked rules is the **Property Maintenance Clause**.
+## Why Does the Lender Care?
 
-Because the house is the only collateral guaranteeing the loan, the FHA demands that you maintain the property to minimum health, safety, and structural standards. You cannot allow the house to rot.
+In a reverse mortgage, the house is the only collateral for the loan. If the loan balance grows to $300,000, but you have allowed the roof to cave in and the foundation to crack, the home might only be worth $150,000 when you pass away. 
 
-## What Constitutes "Disrepair"?
+The FHA insurance fund would have to cover a massive $150,000 loss. To protect themselves, lenders and the FHA strictly enforce the home maintenance clause.
 
-The lender does not care if your carpets are outdated or if you haven't mowed the lawn in two weeks. They are looking for severe structural or safety hazards that destroy the market value of the home:
-- A collapsed or severely leaking roof.
-- Broken windows covered with tarps.
-- Severe hoarding that poses a fire hazard.
-- Foundation failure.
-- Active, untreated termite infestations.
+## What Constitutes "Good Repair"?
 
-## How Does the Lender Know?
+You are not required to continuously remodel the house with granite countertops or modern appliances. "Good repair" simply means addressing structural and safety issues. 
 
-Lenders are not sending agents to knock on your door every month. However, they do actively monitor the condition of the home through three primary methods:
+You must fix:
+- Active roof leaks.
+- Broken windows or doors.
+- Plumbing leaks or electrical hazards.
+- Severe exterior rot or peeling paint.
+- Hoarding situations that create fire hazards.
 
-1. **Drive-By Inspections:** Many servicers hire third-party companies to conduct unannounced "drive-by" inspections. A contractor simply drives past your house, takes a few photos of the exterior, and sends a report to the servicer. If the roof is caving in, the servicer will know.
-2. **Municipal Code Violations:** If your neighbors complain and the city cites you for severe code violations (like accumulating junk or a condemned structure), those violations become public record. Servicers monitor these databases.
-3. **Insurance Claims:** If a massive tree falls on your house and you file an insurance claim, the servicer is notified (because they are listed on the policy as the mortgagee). They will monitor the repair process to ensure the home is actually fixed.
+## How Do They Enforce It?
 
-## The Consequence of Failing to Maintain
+You might wonder how a bank in New York knows that the roof on your house in Ohio is leaking. 
 
-If the servicer discovers the home is in severe disrepair, they will send you a demand letter requiring you to fix the issues within a specific timeframe (often 60 days). 
+Loan servicers routinely hire local field inspectors to conduct **drive-by inspections**. These inspectors take photos of the exterior of the property from the street. 
 
-If you refuse to fix the house, or if you simply cannot afford to, you are in default of the mortgage contract. The lender has the legal right to declare the loan Due and Payable and begin foreclosure proceedings to protect their collateral before it becomes completely worthless.
+If the inspector notes that the gutters are hanging off the house, the roof is tarped, or the yard is filled with junk cars, the servicer will send you a notice demanding repairs. 
+
+If you ignore the notice and the property continues to deteriorate, the lender has the legal right to declare the loan in default and begin foreclosure proceedings to protect their collateral before it becomes worthless. 
+
+If you are struggling physically or financially to maintain the home, it is critical to reach out to local senior assistance programs or family members *before* the servicer notices the disrepair.\n

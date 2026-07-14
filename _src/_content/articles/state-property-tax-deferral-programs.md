@@ -1,41 +1,38 @@
----
-title: State Property Tax Deferral Programs for Seniors
-description: How to pause your property taxes using state-sponsored deferral programs
-  instead of taking out a reverse mortgage.
+---\ntitle: State Property Tax Deferral Programs for Seniors
+description: Learn how property tax deferral programs work, who qualifies, and why
+  they might eliminate your need for a reverse mortgage.
 slug: state-property-tax-deferral-programs
 category: alternatives
-date: '2024-03-11'
+date: '2023-10-31'
 takeaways:
-- Many states allow low-income seniors to legally stop paying property taxes.
-- The state pays the county, and places a lien on your home to be repaid when you
-  die.
-- This solves cash-flow problems without the massive bank fees of a reverse mortgage.
----
+- Many states allow seniors to defer paying property taxes until they pass away.
+- This can free up thousands of dollars in annual cash flow.
+- A tax deferral is essentially a zero-cost, government-subsidized reverse mortgage.
+---\n\nOne of the most common reasons seniors seek a reverse mortgage is because they can no longer afford the rapidly rising property taxes in their neighborhood. If your home is paid off, but the county is charging you $8,000 a year in property taxes, you can quickly find yourself being taxed out of your own home.
 
-The number one reason seniors lose their homes in retirement is an inability to pay escalating county property taxes. Fixed Social Security incomes simply cannot keep up with inflation and skyrocketing real estate assessments.
+Before you take out a reverse mortgage to pay those taxes, you must check if your state offers a **Property Tax Deferral Program**.
 
-When seniors realize they can't pay their tax bill, they immediately seek out a reverse mortgage. However, before signing away your equity to a bank, you must investigate whether your state offers a **Property Tax Deferral Program**.
+## What is a Property Tax Deferral?
 
-## How State Deferral Programs Work
+Several states (including Colorado, Oregon, Massachusetts, and California) offer specific tax relief programs for senior citizens. 
 
-Recognizing the crisis of senior homelessness, over a dozen states (including massive retirement destinations like California, Florida, Texas, and Oregon) have created specific tax deferral programs.
+Instead of forcing you to pay your property taxes every year, the state government pays the county on your behalf. In exchange, the state places a lien on your property. 
 
-If you meet the age (usually 65+) and income requirements, the state will literally step in and pay your county property tax bill for you.
-
-**You do not have to pay property taxes for the rest of your life.**
-
-In exchange, the state places a lien on your home for the exact amount of the taxes they paid, plus a very tiny, subsidized interest rate (often 2% to 5%). When you eventually pass away or sell the home, the state is paid back from the sale proceeds.
+You do not have to pay the state back while you are alive. The deferred taxes (plus a very low, state-mandated interest rate, often around 4% to 6%) simply accrue over time. When you eventually pass away or sell the home, the state is paid back from the proceeds of the sale.
 
 ## Why This Beats a Reverse Mortgage
 
-If your *only* financial problem is that you cannot afford your $6,000 annual property tax bill, a state deferral program is infinitely superior to a reverse mortgage.
+If you look closely at the mechanics, a property tax deferral is exactly the same concept as a reverse mortgage: you are using your home's equity to pay for a living expense, and the debt is deferred until you die.
 
-1. **No Bank Fees:** A reverse mortgage charges $15,000+ in closing costs. The state deferral program charges almost nothing to set up.
-2. **Lower Interest:** Reverse mortgages charge 7% to 8% compounding interest. State governments charge a fraction of that, preserving vastly more equity for your heirs.
-3. **Simplicity:** There are no appraisals, no mandatory HUD counseling, and no risk of the bank calling the loan due on a technicality. 
+However, the state deferral program is infinitely better for one reason: **No Closing Costs.**
 
-## The Catch
+If you get a reverse mortgage just to pay your taxes, you will pay thousands of dollars in origination fees, title insurance, and FHA mortgage insurance premiums. The state deferral program typically costs nothing to set up. It is essentially a subsidized, zero-fee reverse mortgage offered by the government specifically for the purpose of keeping seniors in their homes.
 
-State deferral programs are highly restrictive. You must usually prove you fall below a strict poverty income threshold. Furthermore, some states require you to have no existing mortgage on the property to qualify. 
+## How to Qualify
 
-However, if you qualify, it is the most powerful tool available to solve a property tax crisis without giving up your home equity to a Wall Street lender. Contact your local county tax assessor's office immediately to ask for an application.
+Qualifications vary wildly by state, but generally require:
+- You must be over a certain age (usually 62 or 65).
+- You must meet specific income limits (the program is designed for lower-to-middle income seniors).
+- You must have sufficient equity in the home (the state won't defer taxes if the home is already entirely underwater with another mortgage).
+
+Always contact your county tax assessor's office and explicitly ask about "Senior Property Tax Deferral Programs" before committing to a private reverse mortgage.\n

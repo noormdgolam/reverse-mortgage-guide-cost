@@ -1,40 +1,42 @@
----
-title: The HECM for Purchase Program Explained
-description: How to buy a brand new house using a reverse mortgage, cutting out traditional
-  mortgage payments entirely.
+---\ntitle: The HECM for Purchase Program Explained
+description: A detailed guide on how to use a reverse mortgage to buy a new primary
+  residence, rightsize your retirement, and eliminate monthly payments.
 slug: hecm-for-purchase-program-explained
-category: mechanics
-date: '2024-05-04'
+category: requirements
+date: '2023-11-27'
 takeaways:
-- You can use a reverse mortgage to buy a new house in a single transaction.
-- You must bring a significant down payment (usually 40% to 60%) to closing.
-- You will never have a monthly mortgage payment on the new house.
----
+- The HECM for Purchase allows you to buy a new home and get a reverse mortgage in
+  a single transaction.
+- You must bring a significant down payment (usually 40% to 60%) to the closing table.
+- It is the perfect tool for downsizing to a more accessible home without taking on
+  a new mortgage payment.
+---\n\nFor decades, if a senior wanted to buy a new house using a reverse mortgage, they had to do it in two agonizingly expensive steps: First, buy the new house with cash or a traditional mortgage. Second, wait several months and pay thousands of dollars in closing costs to refinance that new house into a reverse mortgage.
 
-Historically, if a senior wanted to downsize into a new home using a reverse mortgage, they had to do it in two separate, expensive steps: 
-1. Buy the new house with a traditional mortgage.
-2. Six months later, refinance the new house into a reverse mortgage, paying a massive second round of closing costs.
+To fix this, HUD introduced the **HECM for Purchase (H4P)** program in 2009. 
 
-To fix this inefficiency, the FHA created the **HECM for Purchase (H4P)** program. It allows you to buy a new home and finance it with a reverse mortgage in one single closing transaction.
+This program allows you to buy a new home and secure a reverse mortgage in a single, streamlined transaction.
 
 ## How HECM for Purchase Works
 
-Imagine you are 70 years old. You just sold your massive suburban home for $500,000 cash. You want to buy a beautiful $400,000 patio home closer to your grandchildren, but you want to keep as much of your cash as possible in the bank for medical emergencies.
+Let's say you are 70 years old. You just sold your massive, two-story family home for $400,000. You want to buy a single-story ranch home closer to your grandchildren that costs $300,000. 
 
-Instead of paying $400,000 cash for the new home, you use the H4P program.
+If you pay $300,000 cash for the new house, you only have $100,000 left over for retirement.
 
-1. **The Math:** Based on your age, the FHA determines that a reverse mortgage will cover roughly 45% of the new home's purchase price ($180,000).
-2. **The Down Payment:** You are required to bring the remaining 55% ($220,000) in cash to the closing table as your down payment.
-3. **The Result:** The seller gets their $400k. You own the home. The bank has a $180k reverse mortgage lien on it.
+Instead, you use the HECM for Purchase program.
+- The lender determines that based on your age (70), they will lend you roughly 50% of the new home's value (which is $150,000).
+- You are required to bring the other 50% ($150,000) as a down payment from the sale of your old house.
+- You close on the new house.
 
-## The Massive Benefit
+**The Result:** You live in the $300,000 house with **no monthly mortgage payments**. Furthermore, because you only had to put down $150,000, you get to keep $250,000 in cash from the sale of your old house to fund your retirement lifestyle.
 
-By using the H4P program, you bought a $400,000 house, but you only had to take $220,000 out of your savings account. You get to keep the remaining $280,000 in your bank account to fund your retirement lifestyle.
+## The Down Payment Requirement
 
-Most importantly, **you never have to make a monthly mortgage payment on the new house.** 
+The biggest hurdle for the HECM for Purchase is the massive down payment. Unlike a traditional FHA loan where you might put down 3%, a HECM for Purchase requires a down payment of **40% to 60%** of the purchase price, depending on your age.
 
-## Strict Down Payment Rules
+Crucially, HUD has strict rules on where that down payment comes from:
+- It **must** be your own money (from savings, retirement accounts, or the sale of your previous home).
+- It **cannot** be borrowed money (you cannot use a credit card or a bridge loan to fund the down payment). 
 
-To prevent fraud, the FHA is incredibly strict about where your down payment comes from. 
-- You must use your own liquid assets (cash from the sale of your previous home, savings accounts, or retirement accounts).
-- **You absolutely cannot borrow the down payment.** You cannot use a credit card, a personal loan, or a gift from a shady builder to fund the cash requirement. The underwriter will ruthlessly scrutinize your bank statements for 90 days prior to closing to ensure the money is legally yours.
+## Why Seniors Love It
+
+The H4P program is the ultimate tool for "rightsizing" your retirement. It allows you to move into a home that is physically safer (no stairs, wider doors, better climate), while simultaneously preserving a massive chunk of your cash reserves, all without ever taking on a new monthly mortgage payment.\n
