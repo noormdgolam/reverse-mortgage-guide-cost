@@ -32,15 +32,39 @@ def parse_markdown_file(filepath):
     """Parses a markdown file with YAML frontmatter."""
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
+        
+    import random
+    
+    spin_intros = [
+        "<p>For many seniors, unlocking the equity in their homes is a powerful way to secure financial stability in retirement. In this comprehensive guide, we'll break down the specific rules and regulations that govern reverse mortgages in your area.</p>",
+        "<p>Navigating the complex landscape of reverse mortgages can feel overwhelming. However, by understanding the localized laws and eligibility criteria, you can make an informed decision that protects your family's future.</p>",
+        "<p>A reverse mortgage is not a one-size-fits-all solution. Depending on your home's value, your age, and local property laws, the benefits can vary drastically. Let's explore exactly what you need to know.</p>"
+    ]
+    
+    spin_factors = [
+        "<h3>Crucial Eligibility Factors</h3><ul><li><strong>Age Requirement:</strong> You typically must be at least 62 years old to qualify.</li><li><strong>Home Equity:</strong> You must own your home outright or have a significant amount of equity built up.</li><li><strong>Property Taxes & Insurance:</strong> Borrowers are still entirely responsible for ongoing property taxes, homeowners insurance, and general maintenance.</li></ul>",
+        "<h3>How Your Loan Limit is Calculated</h3><p>Your maximum borrowing limit depends on the youngest borrower's age, the current interest rate, and the appraised value of your home (or the FHA lending limit, whichever is lower).</p>",
+        "<h3>Counseling Requirements</h3><p>Before closing on a Home Equity Conversion Mortgage (HECM), you are required by law to attend an independent, HUD-approved counseling session to ensure you fully understand the loan's implications.</p>"
+    ]
+    
+    spin_faqs = [
+        "<h3>Frequently Asked Questions</h3><h4>Can the bank take my home?</h4><p>No. A reverse mortgage is a non-recourse loan. The lender cannot force you out of your home as long as you continue to pay property taxes, insurance, and maintain the home.</p>",
+        "<h3>Frequently Asked Questions</h3><h4>What happens when I pass away?</h4><p>When the last surviving borrower permanently leaves the home, the loan becomes due. Your heirs can choose to sell the home to repay the loan, or refinance the home if they wish to keep it.</p>",
+        "<h3>Frequently Asked Questions</h3><h4>Will a reverse mortgage affect my Social Security?</h4><p>Generally, reverse mortgage proceeds are considered loan advances, not income. Therefore, they typically do not affect regular Social Security or Medicare benefits (though they may impact needs-based programs like Medicaid).</p>"
+    ]
 
     if content.startswith('---'):
         parts = content.split('---', 2)
         if len(parts) >= 3:
             frontmatter = yaml.safe_load(parts[1])
             md_content = parts[2]
-            return frontmatter, markdown.markdown(md_content, extensions=['toc', 'tables', 'fenced_code'])
+            raw_html = markdown.markdown(md_content, extensions=['toc', 'tables', 'fenced_code'])
+            injected_content = random.choice(spin_intros) + raw_html + random.choice(spin_factors) + random.choice(spin_faqs)
+            return frontmatter, injected_content
     
-    return {}, markdown.markdown(content, extensions=['toc', 'tables', 'fenced_code'])
+    raw_html = markdown.markdown(content, extensions=['toc', 'tables', 'fenced_code'])
+    injected_content = random.choice(spin_intros) + raw_html + random.choice(spin_factors) + random.choice(spin_faqs)
+    return {}, injected_content
 
 def inject_inline_components(html_content):
     ad_html = '\n<div class="ad-slot" style="margin: 2rem 0;">\n    <!-- AdSense Mid Article -->\n    [ AdSense Ad Unit Placeholder - Mid Article ]\n</div>\n'
