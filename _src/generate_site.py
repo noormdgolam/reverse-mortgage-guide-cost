@@ -42,11 +42,17 @@ def parse_markdown_file(filepath):
     
     return {}, markdown.markdown(content, extensions=['toc', 'tables', 'fenced_code'])
 
-def inject_mid_article_ad(html_content):
+def inject_inline_components(html_content):
     ad_html = '\n<div class="ad-slot" style="margin: 2rem 0;">\n    <!-- AdSense Mid Article -->\n    [ AdSense Ad Unit Placeholder - Mid Article ]\n</div>\n'
+    newsletter_html = '\n<div class="inline-newsletter" style="margin: 2rem 0; padding: 1.5rem; background: #f0f7ff; border-left: 4px solid var(--primary-color); border-radius: 4px;">\n    <h3 style="margin-top: 0;">Stay Informed</h3>\n    <p style="font-size: 0.95rem;">Join thousands of seniors getting our free weekly reverse mortgage tips.</p>\n    <form style="display: flex; gap: 0.5rem;" onsubmit="event.preventDefault(); alert(\'Subscribed! (Placeholder)\');">\n        <input type="email" placeholder="Email address" required style="flex: 1; padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px;">\n        <button type="submit" style="padding: 0.5rem 1rem; background: var(--primary-color); color: white; border: none; border-radius: 4px; cursor: pointer;">Subscribe</button>\n    </form>\n</div>\n'
+    
     parts = html_content.split('</h2>')
-    if len(parts) > 2:
-        return parts[0] + '</h2>' + parts[1] + '</h2>' + ad_html + '</h2>'.join(parts[2:])
+    if len(parts) > 3:
+        # Inject ad after 1st H2, newsletter after 2nd H2
+        return parts[0] + '</h2>' + ad_html + parts[1] + '</h2>' + newsletter_html + '</h2>'.join(parts[2:])
+    elif len(parts) > 2:
+        # Just inject ad after 1st H2 if only 2 H2s exist
+        return parts[0] + '</h2>' + ad_html + '</h2>'.join(parts[1:])
     return html_content
 
 def main():
@@ -68,7 +74,7 @@ def main():
                 meta, html_content = parse_markdown_file(filepath)
                 meta['slug'] = meta.get('slug', filename[:-3])
                 meta['url'] = f"/{meta['slug']}.html"
-                meta['content'] = inject_mid_article_ad(html_content)
+                meta['content'] = inject_inline_components(html_content)
                 # default updated date
                 if 'updated' not in meta:
                     meta['updated'] = meta.get('date', datetime.now().strftime("%Y-%m-%d"))
