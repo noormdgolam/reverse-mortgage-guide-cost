@@ -169,9 +169,10 @@ def main():
     if os.path.exists(os.path.join(TEMPLATES_DIR, 'search.html')):
         search_template = env.get_template('search.html')
         output_html = search_template.render(site=site_data)
-        with open(os.path.join(PROJECT_ROOT, 'search.html'), 'w', encoding='utf-8') as f:
+        os.makedirs(os.path.join(PROJECT_ROOT, 'search'), exist_ok=True)
+        with open(os.path.join(PROJECT_ROOT, 'search', 'index.html'), 'w', encoding='utf-8') as f:
             f.write(output_html)
-        print("Generated: /search.html")
+        print("Generated: /search/index.html")
 
     print("Site generation complete!")
 
