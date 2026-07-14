@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="hero" style="text-align: center; padding: 4rem 1rem; background: var(--gray-light); border-radius: 8px; margin-bottom: 3rem;">
+    <h1 style="font-size: 2.5rem; margin-bottom: 1rem;">Understand Reverse Mortgage Costs</h1>
+    <p style="font-size: 1.2rem; color: #555; max-width: 800px; margin: 0 auto 2rem;">Compare fees, interest rates, and closing costs. Get clear, unbiased information to help you make the right choice for your retirement.</p>
+    
+    <div class="ad-slot" style="background: white; border: 1px dashed #ccc;">
+        <!-- AdSense Above Fold -->
+        [ AdSense Ad Unit Placeholder - Above Fold ]
+    </div>
+</div>
+
+<h2>Latest Guides & Cost Breakdowns</h2>
+<div class="card-grid">
+    {% for article in articles %}
+    <div class="card">
+        <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
+        <p style="font-size: 0.9rem; color: #666; margin-bottom: 1rem;">{{ article.date | format_date }}</p>
+        <p>{{ article.description }}</p>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

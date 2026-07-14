@@ -1,0 +1,4 @@
+jinja2
+markdown
+python-slugify
+pyyaml

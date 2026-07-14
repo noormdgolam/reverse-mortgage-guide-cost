@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reverse-mortgage-guide-cost.bongshai.com/sitemap.xml

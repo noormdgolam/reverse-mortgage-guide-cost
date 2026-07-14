@@ -1,0 +1,19 @@
+{
+  "name": "Reverse Mortgage Guide",
+  "url": "https://reverse-mortgage-guide-cost.bongshai.com",
+  "description": "Comprehensive and clear reverse mortgage cost comparisons and guides for seniors.",
+  "author": "Reverse Mortgage Guide Team",
+  "language": "en-US",
+  "adsense_client": "ca-pub-0000000000000000",
+  "ga_measurement_id": "G-XXXXXXXXXX",
+  "social": {
+    "twitter": "@reversemortgageguide",
+    "facebook": "reversemortgageguide"
+  },
+  "nav_links": [
+    {"title": "Home", "url": "/"},
+    {"title": "Costs & Fees", "url": "/costs-and-fees"},
+    {"title": "How It Works", "url": "/how-it-works"},
+    {"title": "Alternatives", "url": "/alternatives"}
+  ]
+}
