@@ -43,6 +43,13 @@
 <div class="grid-layout">
     <article class="article-content">
         <header class="article-header">
+            <nav aria-label="breadcrumb" class="breadcrumb" style="font-size: 0.9rem; margin-bottom: 1rem;">
+                <a href="/" style="color: var(--primary-color); text-decoration: none;">Home</a> 
+                &rsaquo; 
+                <span style="text-transform: capitalize;"><a href="/search/index.html?q={{ article.category }}" style="color: var(--primary-color); text-decoration: none;">{{ article.category }}</a></span>
+                &rsaquo; 
+                <span style="color: #666;" aria-current="page">{{ article.title }}</span>
+            </nav>
             <h1>{{ article.title }}</h1>
             <div class="author-byline">
                 <span class="author-name">By {{ article.author | default(site.author) }}</span>

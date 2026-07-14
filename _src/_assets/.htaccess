@@ -1,0 +1,17 @@
+<IfModule mod_headers.c>
+    # HTTP Strict Transport Security (HSTS)
+    Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+
+    # X-Content-Type-Options
+    Header always set X-Content-Type-Options "nosniff"
+
+    # X-Frame-Options
+    Header always set X-Frame-Options "SAMEORIGIN"
+
+    # X-XSS-Protection
+    Header always set X-XSS-Protection "1; mode=block"
+
+    # Content Security Policy (CSP)
+    # Allows AdSense, GA4, local assets, and inline scripts/styles needed for functionality
+    Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://pagead2.googlesyndication.com https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://pagead2.googlesyndication.com https://www.google-analytics.com; frame-src 'self' https://googleads.g.doubleclick.net;"
+</IfModule>

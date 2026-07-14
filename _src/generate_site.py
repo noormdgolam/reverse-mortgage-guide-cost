@@ -152,6 +152,14 @@ def main():
         f.write(sitemap_xml)
     print("Generated: /sitemap.xml")
 
+    # Generate HTML Sitemap
+    if os.path.exists(os.path.join(TEMPLATES_DIR, 'html_sitemap.html')):
+        html_sitemap_template = env.get_template('html_sitemap.html')
+        output_html_sitemap = html_sitemap_template.render(site=site_data, articles=articles)
+        with open(os.path.join(PROJECT_ROOT, 'sitemap.html'), 'w', encoding='utf-8') as f:
+            f.write(output_html_sitemap)
+        print("Generated: /sitemap.html")
+
     # 10. Generate RSS
     rss_template = env.get_template('rss.xml')
     rss_xml = rss_template.render(site=site_data, articles=articles)
