@@ -70,6 +70,15 @@
         <header class="article-header">
             <h1>Search Results</h1>
             <p id="search-status">Searching for: <strong><span id="search-query">...</span></strong></p>
+
+<!-- Google AdSense - In-Article -->
+<div class="ad-placeholder" style="margin: 20px 0; text-align: center;">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0000000000000000" crossorigin="anonymous"></script>
+    <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-0000000000000000" data-ad-slot="0000000000"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+
         </header>
 
         <div id="search-results-container">
@@ -107,6 +116,15 @@ document.addEventListener("DOMContentLoaded", function() {
                         div.innerHTML = `
                             <h3 style="margin-bottom: 0.5rem;"><a href="${item.url}" style="text-decoration: none; color: var(--primary-color);">${item.title}</a></h3>
                             <p style="margin: 0; color: var(--text-color);">${item.description}</p>
+
+<!-- Google AdSense - In-Article -->
+<div class="ad-placeholder" style="margin: 20px 0; text-align: center;">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0000000000000000" crossorigin="anonymous"></script>
+    <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-0000000000000000" data-ad-slot="0000000000"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+
                         `;
                         container.appendChild(div);
                     });
@@ -115,7 +133,16 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
             })
             .catch(err => {
-                document.getElementById('search-results-container').innerHTML = '<p>Error loading search results.</p>';
+                document.getElementById('search-results-container').innerHTML = '<p>Error loading search results.</p>
+
+<!-- Google AdSense - In-Article -->
+<div class="ad-placeholder" style="margin: 20px 0; text-align: center;">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0000000000000000" crossorigin="anonymous"></script>
+    <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-0000000000000000" data-ad-slot="0000000000"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+';
             });
     } else {
         document.getElementById('search-status').innerText = 'Please enter a search term.';
